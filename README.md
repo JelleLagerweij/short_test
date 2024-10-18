@@ -9,10 +9,10 @@
 The python environment might have some difficulties setting up. Especially mpi4py can have install issues. In my case, it worked like this:
 
 ```ssh
-
 pip -m venv .venv
 source .venv/bin/activate
-sudo pip install mpi4py  # multicore support
 pip install freud  # does some msd calculations
 pip install numpy scipy h5py ase  # standard packages for scientific computing and storing results
 ```
+
+Step 1 would require a clean vasp install and step 2 a conda environment with working mpi4py. This is not easy to set up with pip.
