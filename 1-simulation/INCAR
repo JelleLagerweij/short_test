@@ -1,0 +1,47 @@
+# Comment in INCAR
+
+# Setting the type of calculation (0 = (AI)MD, 1 2 3 = relaxation method)
+IBRION = 0             ! set to MD
+ISYM = 0                ! NO SYMETRY
+# Write LCHARG and LWAVE for restarts AIMD
+
+#############################################################
+# Setting DFT part
+ALGO = Normal
+PREC = Low
+LREAL = Auto            ! projection operators in real space VASP adviced this
+LASPH = .True.          ! Vasp advised this (non-spherical contributions included)
+GGA = RP                ! Setting the functional
+
+ENCUT = 550             ! cutoff should be set manually find minimal energy with result
+ISMEAR = 0              ! Gausian smearing
+SIGMA = 0.30            ! Smearing width
+EDIFF = 1e-5            ! When to stop converging
+IVDW = 11               ! VdW corrections for GGA methods
+NBANDS = 768            ! 12 bands per CPU @ 64 cores
+#############################################################
+
+#############################################################
+# Setting the MD properties
+POTIM = 0.5            ! timestep size in fs
+NSW = 10             ! number of timesteps
+
+# Setting the thermostat
+MDALGO = 2              ! Nose-Hoover
+SMASS = 5               ! lattice mass
+
+TEBEG = 288.15     ! start T
+TEEND = 288.15     ! end T
+ISIF = 2                ! Keep the cell shape and volume fixed, however update particle positions
+
+# Setting the saving of the results
+NBLOCK = 1
+NPACO = 32
+#############################################################
+
+#############################################################
+# Additional settings for vasp efficiencies
+LPLANE = .TRUE.
+NCORE = 16
+LSCALU = .FALSE.
+NSIM   = 4
