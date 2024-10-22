@@ -12,8 +12,7 @@ The python environment might have some difficulties setting up. Especially mpi4p
 ```ssh
 pip -m venv .venv
 source .venv/bin/activate
-pip install freud  # does some msd calculations
-pip install numpy scipy h5py ase  # standard packages for scientific computing and storing results
+pip install numpy scipy h5py pandas ase tabulate matplotlib # standard packages for scientific computing, storing and writing results
 ```
 
 Step 1 would require a clean vasp-6.4.0+ & hdf5 install and step 2 a conda environment with working mpi4py. This is not easy to set up with pip.

@@ -439,7 +439,7 @@ class Prot_Hop:
             # Cheat python: True will be treated as 1, False as 0, so you can use this in equations.
             hbs[1, 0] += np.sum(beta_don < 0.5235987755982988)  # Chandler and Luzar (1996) 30 degree beta limit
             hbs[2, 0] += np.sum(R_len + 1.4444347940051674*beta_don**2 < 3.3)  # Wernet Nordlund Bermann (2004)
-            hbs[3, 0] += np.sum((theta_don > 2.443460952792061) & (R_len < 3.1))  # The way Sana does it (Giulia Galli & Francois Gygi 2000) 140 degree limit
+            hbs[3, 0] += np.sum((theta_don > 2.443460952792061) & (R_len < 3.2))  # The way Sana does it (Giulia Galli & Francois Gygi 2000) 140 degree limit
             hbs[4, 0] += np.sum((r_don_len < 2.27) & (theta_don > 2.443460952792061))  # Kuo and Mundy (2004) !!
             
             # Part 2: Acceptor testing
@@ -453,7 +453,7 @@ class Prot_Hop:
             # Cheat python: True will be treated as 1, False as 0, so you can use this in equations.
             hbs[1, 1] += np.sum(beta_acc < 0.5235987755982988)  # Chandler and Luzar (1996) 30 degree beta limit
             hbs[2, 1] += np.sum(R_len + 1.4444347940051674*beta_acc**2 < 3.3)  # Wernet Nordlund Bermann (2004)
-            hbs[3, 1] += np.sum((theta_acc > 2.443460952792061) & (R_len < 3.1))  # The way Sana does it (Giulia Galli & Francois Gygi 2000) 140 degree limit
+            hbs[3, 1] += np.sum((theta_acc > 2.443460952792061) & (R_len < 3.2))  # The way Sana does it (Giulia Galli & Francois Gygi 2000) 140 degree limit
             hbs[4, 1] += np.sum((r_acc_len < 2.27) & (theta_acc > 2.443460952792061))  # Kuo and Mundy (2004) !! TODO maybe adjust minimal length to 1.1A
         
         return hbs
