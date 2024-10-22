@@ -1,0 +1,465 @@
+[fixing partition]
+(220 221)
+level 231:  332 orbits; 220 fixed; index 2
+(219 220)
+level 230:  331 orbits; 219 fixed; index 3
+(218 219)
+level 229:  330 orbits; 218 fixed; index 4
+(217 218)
+level 228:  329 orbits; 217 fixed; index 5
+(216 217)
+level 227:  328 orbits; 216 fixed; index 6
+(215 216)
+level 226:  327 orbits; 215 fixed; index 7
+(214 215)
+level 225:  326 orbits; 214 fixed; index 8
+(213 214)
+level 224:  325 orbits; 213 fixed; index 9
+(212 213)
+level 223:  324 orbits; 212 fixed; index 10
+(211 212)
+level 222:  323 orbits; 211 fixed; index 11
+(210 211)
+level 221:  322 orbits; 210 fixed; index 12
+(209 210)
+level 220:  321 orbits; 209 fixed; index 13
+(208 209)
+level 219:  320 orbits; 208 fixed; index 14
+(207 208)
+level 218:  319 orbits; 207 fixed; index 15
+(206 207)
+level 217:  318 orbits; 206 fixed; index 16
+(205 206)
+level 216:  317 orbits; 205 fixed; index 17
+(204 205)
+level 215:  316 orbits; 204 fixed; index 18
+(203 204)
+level 214:  315 orbits; 203 fixed; index 19
+(202 203)
+level 213:  314 orbits; 202 fixed; index 20
+(201 202)
+level 212:  313 orbits; 201 fixed; index 21
+(200 201)
+level 211:  312 orbits; 200 fixed; index 22
+(199 200)
+level 210:  311 orbits; 199 fixed; index 23
+(198 199)
+level 209:  310 orbits; 198 fixed; index 24
+(197 198)
+level 208:  309 orbits; 197 fixed; index 25
+(196 197)
+level 207:  308 orbits; 196 fixed; index 26
+(195 196)
+level 206:  307 orbits; 195 fixed; index 27
+(194 195)
+level 205:  306 orbits; 194 fixed; index 28
+(193 194)
+level 204:  305 orbits; 193 fixed; index 29
+(192 193)
+level 203:  304 orbits; 192 fixed; index 30
+(191 192)
+level 202:  303 orbits; 191 fixed; index 31
+(190 191)
+level 201:  302 orbits; 190 fixed; index 32
+(189 190)
+level 200:  301 orbits; 189 fixed; index 33
+(188 189)
+level 199:  300 orbits; 188 fixed; index 34
+(187 188)
+level 198:  299 orbits; 187 fixed; index 35
+(186 187)
+level 197:  298 orbits; 186 fixed; index 36
+(185 186)
+level 196:  297 orbits; 185 fixed; index 37
+(184 185)
+level 195:  296 orbits; 184 fixed; index 38
+(183 184)
+level 194:  295 orbits; 183 fixed; index 39
+(182 183)
+level 193:  294 orbits; 182 fixed; index 40
+(181 182)
+level 192:  293 orbits; 181 fixed; index 41
+(180 181)
+level 191:  292 orbits; 180 fixed; index 42
+(179 180)
+level 190:  291 orbits; 179 fixed; index 43
+(178 179)
+level 189:  290 orbits; 178 fixed; index 44
+(177 178)
+level 188:  289 orbits; 177 fixed; index 45
+(176 177)
+level 187:  288 orbits; 176 fixed; index 46
+(175 176)
+level 186:  287 orbits; 175 fixed; index 47
+(174 175)
+level 185:  286 orbits; 174 fixed; index 48
+(173 174)
+level 184:  285 orbits; 173 fixed; index 49
+(172 173)
+level 183:  284 orbits; 172 fixed; index 50
+(171 172)
+level 182:  283 orbits; 171 fixed; index 51
+(170 171)
+level 181:  282 orbits; 170 fixed; index 52
+(169 170)
+level 180:  281 orbits; 169 fixed; index 53
+(168 169)
+level 179:  280 orbits; 168 fixed; index 54
+(167 168)
+level 178:  279 orbits; 167 fixed; index 55
+(166 167)
+level 177:  278 orbits; 166 fixed; index 56
+(165 166)
+level 176:  277 orbits; 165 fixed; index 57
+(164 165)
+level 175:  276 orbits; 164 fixed; index 58
+(163 164)
+level 174:  275 orbits; 163 fixed; index 59
+(162 163)
+level 173:  274 orbits; 162 fixed; index 60
+(161 162)
+level 172:  273 orbits; 161 fixed; index 61
+(160 161)
+level 171:  272 orbits; 160 fixed; index 62
+(159 160)
+level 170:  271 orbits; 159 fixed; index 63
+(158 159)
+level 169:  270 orbits; 158 fixed; index 64
+(157 158)
+level 168:  269 orbits; 157 fixed; index 65
+(156 157)
+level 167:  268 orbits; 156 fixed; index 66
+(155 156)
+level 166:  267 orbits; 155 fixed; index 67
+(154 155)
+level 165:  266 orbits; 154 fixed; index 68
+(153 154)
+level 164:  265 orbits; 153 fixed; index 69
+(152 153)
+level 163:  264 orbits; 152 fixed; index 70
+(151 152)
+level 162:  263 orbits; 151 fixed; index 71
+(150 151)
+level 161:  262 orbits; 150 fixed; index 72
+(149 150)
+level 160:  261 orbits; 149 fixed; index 73
+(148 149)
+level 159:  260 orbits; 148 fixed; index 74
+(147 148)
+level 158:  259 orbits; 147 fixed; index 75
+(146 147)
+level 157:  258 orbits; 146 fixed; index 76
+(145 146)
+level 156:  257 orbits; 145 fixed; index 77
+(144 145)
+level 155:  256 orbits; 144 fixed; index 78
+(143 144)
+level 154:  255 orbits; 143 fixed; index 79
+(142 143)
+level 153:  254 orbits; 142 fixed; index 80
+(141 142)
+level 152:  253 orbits; 141 fixed; index 81
+(140 141)
+level 151:  252 orbits; 140 fixed; index 82
+(139 140)
+level 150:  251 orbits; 139 fixed; index 83
+(138 139)
+level 149:  250 orbits; 138 fixed; index 84
+(137 138)
+level 148:  249 orbits; 137 fixed; index 85
+(136 137)
+level 147:  248 orbits; 136 fixed; index 86
+(135 136)
+level 146:  247 orbits; 135 fixed; index 87
+(134 135)
+level 145:  246 orbits; 134 fixed; index 88
+(133 134)
+level 144:  245 orbits; 133 fixed; index 89
+(132 133)
+level 143:  244 orbits; 132 fixed; index 90
+(131 132)
+level 142:  243 orbits; 131 fixed; index 91
+(130 131)
+level 141:  242 orbits; 130 fixed; index 92
+(129 130)
+level 140:  241 orbits; 129 fixed; index 93
+(128 129)
+level 139:  240 orbits; 128 fixed; index 94
+(127 128)
+level 138:  239 orbits; 127 fixed; index 95
+(126 127)
+level 137:  238 orbits; 126 fixed; index 96
+(125 126)
+level 136:  237 orbits; 125 fixed; index 97
+(124 125)
+level 135:  236 orbits; 124 fixed; index 98
+(123 124)
+level 134:  235 orbits; 123 fixed; index 99
+(122 123)
+level 133:  234 orbits; 122 fixed; index 100
+(121 122)
+level 132:  233 orbits; 121 fixed; index 101
+(120 121)
+level 131:  232 orbits; 120 fixed; index 102
+(119 120)
+level 130:  231 orbits; 119 fixed; index 103
+(118 119)
+level 129:  230 orbits; 118 fixed; index 104
+(117 118)
+level 128:  229 orbits; 117 fixed; index 105
+(116 117)
+level 127:  228 orbits; 116 fixed; index 106
+(115 116)
+level 126:  227 orbits; 115 fixed; index 107
+(114 115)
+level 125:  226 orbits; 114 fixed; index 108
+(113 114)
+level 124:  225 orbits; 113 fixed; index 109
+(112 113)
+level 123:  224 orbits; 112 fixed; index 110
+(111 112)
+level 122:  223 orbits; 111 fixed; index 111
+(110 111)
+level 121:  222 orbits; 110 fixed; index 112
+(109 110)
+level 120:  221 orbits; 109 fixed; index 113
+(108 109)
+level 119:  220 orbits; 108 fixed; index 114
+(107 108)
+level 118:  219 orbits; 107 fixed; index 115
+(106 107)
+level 117:  218 orbits; 106 fixed; index 116
+(105 106)
+level 116:  217 orbits; 105 fixed; index 117
+(104 105)
+level 115:  216 orbits; 104 fixed; index 118
+(103 104)
+level 114:  215 orbits; 103 fixed; index 119
+(102 103)
+level 113:  214 orbits; 102 fixed; index 120
+(101 102)
+level 112:  213 orbits; 101 fixed; index 121
+(100 101)
+level 111:  212 orbits; 100 fixed; index 122
+(99 100)
+level 110:  211 orbits; 99 fixed; index 123
+(98 99)
+level 109:  210 orbits; 98 fixed; index 124
+(97 98)
+level 108:  209 orbits; 97 fixed; index 125
+(96 97)
+level 107:  208 orbits; 96 fixed; index 126
+(95 96)
+level 106:  207 orbits; 95 fixed; index 127
+(94 95)
+level 105:  206 orbits; 94 fixed; index 128
+(93 94)
+level 104:  205 orbits; 93 fixed; index 129
+(92 93)
+level 103:  204 orbits; 92 fixed; index 130
+(91 92)
+level 102:  203 orbits; 91 fixed; index 131
+(90 91)
+level 101:  202 orbits; 90 fixed; index 132
+(89 90)
+level 100:  201 orbits; 89 fixed; index 133
+(88 89)
+level 99:  200 orbits; 88 fixed; index 134
+(87 88)
+level 98:  199 orbits; 87 fixed; index 135
+(86 87)
+level 97:  198 orbits; 86 fixed; index 136
+(85 86)
+level 96:  197 orbits; 85 fixed; index 137
+(84 85)
+level 95:  196 orbits; 84 fixed; index 138
+(83 84)
+level 94:  195 orbits; 83 fixed; index 139
+(82 83)
+level 93:  194 orbits; 82 fixed; index 140
+(81 82)
+level 92:  193 orbits; 81 fixed; index 141
+(80 81)
+level 91:  192 orbits; 80 fixed; index 142
+(79 80)
+level 90:  191 orbits; 79 fixed; index 143
+(78 79)
+level 89:  190 orbits; 78 fixed; index 144
+(77 78)
+level 88:  189 orbits; 77 fixed; index 145
+(76 77)
+level 87:  188 orbits; 76 fixed; index 146
+(75 76)
+level 86:  187 orbits; 75 fixed; index 147
+(74 75)
+level 85:  186 orbits; 74 fixed; index 148
+(73 74)
+level 84:  185 orbits; 73 fixed; index 149
+(72 73)
+level 83:  184 orbits; 72 fixed; index 150
+(71 72)
+level 82:  183 orbits; 71 fixed; index 151
+(70 71)
+level 81:  182 orbits; 70 fixed; index 152
+(69 70)
+level 80:  181 orbits; 69 fixed; index 153
+(68 69)
+level 79:  180 orbits; 8 fixed; index 154
+(67 68)
+level 77:  179 orbits; 67 fixed; index 155
+(66 67)
+level 76:  178 orbits; 66 fixed; index 156
+(65 66)
+level 75:  177 orbits; 65 fixed; index 157
+(64 65)
+level 74:  176 orbits; 64 fixed; index 158
+(63 64)
+level 73:  175 orbits; 63 fixed; index 159
+(62 63)
+level 72:  174 orbits; 62 fixed; index 160
+(61 62)
+level 71:  173 orbits; 61 fixed; index 161
+(60 61)
+level 70:  172 orbits; 60 fixed; index 162
+(59 60)
+level 69:  171 orbits; 59 fixed; index 163
+(58 59)
+level 68:  170 orbits; 58 fixed; index 164
+(57 58)
+level 67:  169 orbits; 57 fixed; index 165
+(56 57)
+level 66:  168 orbits; 56 fixed; index 166
+(55 56)
+level 65:  167 orbits; 55 fixed; index 167
+(54 55)
+level 64:  166 orbits; 54 fixed; index 168
+(53 54)
+level 63:  165 orbits; 53 fixed; index 169
+(52 53)
+level 62:  164 orbits; 52 fixed; index 170
+(51 52)
+level 61:  163 orbits; 51 fixed; index 171
+(50 51)
+level 60:  162 orbits; 50 fixed; index 172
+(49 50)
+level 59:  161 orbits; 49 fixed; index 173
+(48 49)
+level 58:  160 orbits; 48 fixed; index 174
+(47 48)
+level 57:  159 orbits; 47 fixed; index 175
+(46 47)
+level 56:  158 orbits; 46 fixed; index 176
+(45 46)
+level 55:  157 orbits; 45 fixed; index 177
+(44 45)
+level 54:  156 orbits; 44 fixed; index 178
+(43 44)
+level 53:  155 orbits; 43 fixed; index 179
+(42 43)
+level 52:  154 orbits; 42 fixed; index 180
+(41 42)
+level 51:  153 orbits; 41 fixed; index 181
+(40 41)
+level 50:  152 orbits; 40 fixed; index 182
+(39 40)
+level 49:  151 orbits; 39 fixed; index 183
+(38 39)
+level 48:  150 orbits; 38 fixed; index 184
+(37 38)
+level 47:  149 orbits; 37 fixed; index 185
+(36 37)
+level 46:  148 orbits; 36 fixed; index 186
+(35 36)
+level 45:  147 orbits; 35 fixed; index 187
+(34 35)
+level 44:  146 orbits; 34 fixed; index 188
+(33 34)
+level 43:  145 orbits; 33 fixed; index 189
+(32 33)
+level 42:  144 orbits; 32 fixed; index 190
+(31 32)
+level 41:  143 orbits; 31 fixed; index 191
+(30 31)
+level 40:  142 orbits; 30 fixed; index 192
+(29 30)
+level 39:  141 orbits; 29 fixed; index 193
+(28 29)
+level 38:  140 orbits; 28 fixed; index 194
+(27 28)
+level 37:  139 orbits; 27 fixed; index 195
+(26 27)
+level 36:  138 orbits; 26 fixed; index 196
+(25 26)
+level 35:  137 orbits; 25 fixed; index 197
+(24 25)
+level 34:  136 orbits; 24 fixed; index 198
+(23 24)
+level 33:  135 orbits; 23 fixed; index 199
+(22 23)
+level 32:  134 orbits; 22 fixed; index 200
+(21 22)
+level 31:  133 orbits; 21 fixed; index 201
+(20 21)
+level 30:  132 orbits; 20 fixed; index 202
+(19 20)
+level 29:  131 orbits; 19 fixed; index 203
+(18 19)
+level 28:  130 orbits; 18 fixed; index 204
+(17 18)
+level 27:  129 orbits; 17 fixed; index 205
+(16 17)
+level 26:  128 orbits; 16 fixed; index 206
+(15 16)
+level 25:  127 orbits; 15 fixed; index 207
+(14 15)
+level 24:  126 orbits; 14 fixed; index 208
+(13 14)
+level 23:  125 orbits; 13 fixed; index 209
+(12 13)
+level 22:  124 orbits; 12 fixed; index 210
+(11 12)
+level 21:  123 orbits; 11 fixed; index 211
+(10 11)
+level 20:  122 orbits; 10 fixed; index 212
+(9 10)
+level 19:  121 orbits; 9 fixed; index 213
+(8 9)
+level 18:  120 orbits; 8 fixed; index 214
+(7 8)
+level 17:  119 orbits; 7 fixed; index 215
+(6 7)
+level 16:  118 orbits; 6 fixed; index 216
+(5 6)
+level 15:  117 orbits; 5 fixed; index 217
+(4 5)
+level 14:  116 orbits; 4 fixed; index 218
+(3 4)
+level 13:  115 orbits; 3 fixed; index 219
+(2 3)
+level 12:  114 orbits; 2 fixed; index 220
+(1 2)
+level 11:  113 orbits; 1 fixed; index 221
+(277 308)
+level 10:  112 orbits; 277 fixed; index 2
+(232 284)
+level 9:  111 orbits; 232 fixed; index 2
+(323 329)
+level 8:  110 orbits; 323 fixed; index 2
+(310 323)
+level 7:  109 orbits; 310 fixed; index 3
+(297 310)
+level 6:  108 orbits; 297 fixed; index 4
+(290 297)
+level 5:  107 orbits; 290 fixed; index 5
+(265 290)
+level 4:  106 orbits; 265 fixed; index 6
+(254 265)
+level 3:  105 orbits; 254 fixed; index 7
+(247 254)
+level 2:  104 orbits; 247 fixed; index 8
+(288 324)(305 318)
+level 1:  102 orbits; 305 fixed; index 2
+102 orbits; grpsize=1.628067197795e429; 230 gens; 26796 nodes; maxlev=231
+canupdates=1; cpu time = 0.01 seconds
+es; maxlev=232
+canupdates=1; cpu time = 0.02 seconds
