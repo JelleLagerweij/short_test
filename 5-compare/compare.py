@@ -98,7 +98,7 @@ def read_hbs(filename: str) -> np.ndarray:
     """
     input = h5py.File(filename, 'r')
     hbs = input["transient/current_OH_hbs"][()]
-    hbs_com = hbs[:, 2, 0] + hbs[:, 2, 1]
+    hbs_com = hbs[:, 3, 0] + hbs[:, 3, 1]
     return hbs_com
     
 

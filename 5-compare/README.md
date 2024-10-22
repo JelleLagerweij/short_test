@@ -3,14 +3,14 @@
 This can simply be executed by 
 
 ```ssh
-python test_shift.py
+python compare.py
 ```
 
 The current version saves a figure and outputs a table in the terminal. Currently we see that some problems still exsist as nog all shifts result in the same number of hydrogen bonds.
 
 ```ssh
 
- python test_shift.py                                                                                                                        in bash at 11:34:33
+ python compare.py                                                                                                                        in bash at 11:34:33
 Processing ../4-GATeWAY/copy_0
 Processing ../4-GATeWAY/copy_1
 Processing ../4-GATeWAY/copy_2
