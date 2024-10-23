@@ -23,3 +23,5 @@ The steps 3-5 can be executed at once using the `test_all.sh` shell script. Howe
 
 bash test_all.sh
 ```
+
+Now the trajectories  have a length of 100 timesteps, you can set GATeWAY to only check a selective ammound.

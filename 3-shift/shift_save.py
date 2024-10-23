@@ -31,7 +31,7 @@ def shift_positions(lbox: float, frames: List[Atoms]) -> List[Atoms]:
     """Shifts the box in such a way that atom n is the one shifted back
     to 0, 0, 0"""
     lmax = 20
-    shift = (np.random.rand(1, 3)*2*lmax) - lmax  # random shift in the box
+    shift = (np.random.rand(1, 3)*lmax)  # random shift in the box between 0 and 20 A
     for frame in frames:
         frame.positions += shift  # occurs on all indexes of the array
         frame.positions = frame.positions % lbox  # wraps all back to fit in the pbc box

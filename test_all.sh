@@ -12,10 +12,10 @@ python compare.py
 cd ..
 
 
-printf "Second try with pbc disabled"
-cd 3-shift
-python shift_save.py 500.0 traj.xyz 7
-cd ../4-GATeWAY
-bash run_gateway.sh 500.0
-cd ../5-compare
-python compare.py
+# printf "Second try with pbc disabled"
+# cd 3-shift
+# python shift_save.py 500.0 traj.xyz 7
+# cd ../4-GATeWAY
+# bash run_gateway.sh 500.0
+# cd ../5-compare
+# python compare.py

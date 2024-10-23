@@ -1,6 +1,11 @@
 # Here we will shift the xyz around for testing purposes
 
 The python file will automatically overwrite the copy_# folders in the folder 4-GATeWAY. Copy 0 is the origional.
+First copy over the correct trajectory file from folder `2-postprocessing`:
+
+ ```ssh
+cp ../2-postprocessing/traj_unprocessed_wrapped.xyz traj.xyz
+ ```
 
 Run the program with the following method
 
