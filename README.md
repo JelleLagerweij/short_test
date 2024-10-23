@@ -17,4 +17,9 @@ pip install numpy scipy h5py pandas ase tabulate matplotlib # standard packages 
 
 Step 1 would require a clean vasp-6.4.0+ & hdf5 install and step 2 a conda environment with working mpi4py. This is not easy to set up with pip.
 
+The steps 3-5 can be executed at once using the `test_all.sh` shell script. However the individual gateway executable has to be set correctly in folder `4-GATeWAY`.
 
+```shell
+
+bash test_all.sh
+```

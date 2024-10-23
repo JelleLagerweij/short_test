@@ -454,6 +454,6 @@ level 2:  107 orbits; 265 fixed; index 4
 (247 265)
 level 1:  106 orbits; 247 fixed; index 5
 106 orbits; grpsize=4.845438088677e426; 227 gens; 26106 nodes; maxlev=228
-canupdates=1; cpu time = 0.02 seconds
+canupdates=1; cpu time = 0.01 seconds
 es; maxlev=229
 canupdates=1; cpu time = 0.02 seconds
