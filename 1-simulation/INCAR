@@ -24,7 +24,7 @@ NBANDS = 768            ! 12 bands per CPU @ 64 cores
 #############################################################
 # Setting the MD properties
 POTIM = 0.5            ! timestep size in fs
-NSW = 10             ! number of timesteps
+NSW = 100             ! number of timesteps
 
 # Setting the thermostat
 MDALGO = 2              ! Nose-Hoover
