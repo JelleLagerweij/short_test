@@ -4,7 +4,7 @@
 
 printf "First try with pbc enabled"
 cd 3-shift
-python shift_save.py 14.8997209999999995 traj.xyz 5
+python shift_save.py 14.8997209999999995 traj.xyz 7
 cd ../4-GATeWAY
 bash run_gateway.sh 14.8997209999999995
 cd ../5-compare
@@ -14,7 +14,7 @@ cd ..
 
 printf "Second try with pbc disabled"
 cd 3-shift
-python shift_save.py 500.0 traj.xyz 5
+python shift_save.py 500.0 traj.xyz 7
 cd ../4-GATeWAY
 bash run_gateway.sh 500.0
 cd ../5-compare

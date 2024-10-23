@@ -16,3 +16,5 @@ pip install numpy scipy h5py pandas ase tabulate matplotlib # standard packages 
 ```
 
 Step 1 would require a clean vasp-6.4.0+ & hdf5 install and step 2 a conda environment with working mpi4py. This is not easy to set up with pip.
+
+
